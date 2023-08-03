@@ -10,11 +10,10 @@ Welcome to Pirates of Web, an exciting online treasure hunt game based on the th
 
 2. There might be some delay in loading of some pages due to usage hosting website's free version of hosting.
         
-3. In case of any queries, you can contact the developer at adityapatilsy@gmail.com .
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Ronin2810/eLitmus_PiratesOfWeb.git`
+1. Clone the repository: `git clone https://github.com/apoorvarajlondhe/PiratesofWeb.git`
 2. Navigate to the project directories of backend and frontend respectively: 
         `cd frontend`
         `cd backend`
