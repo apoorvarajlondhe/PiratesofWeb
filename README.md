@@ -26,7 +26,7 @@ To start the Pirates of Web game, follow these steps:
 1. Run the backend application by moving in the backend directory: 
     `cd backend`
     `npm start`
-2. Run the frontend application by moving in the backend directory: 
+2. Run the frontend application by moving in the frontend directory: 
     `cd frontend`
     `npm start`
 3. The backend server will be running on : `http://localhost:5000`
